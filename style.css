@@ -1,0 +1,15 @@
+body{
+background:#f4f4f4;
+font-family:Arial;
+}
+
+.container{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
+
+h1{
+color:blue;
+}
